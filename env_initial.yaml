@@ -1,0 +1,13 @@
+name: pytorch-lightning-multitask
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: pytorch-lightning-multitask
